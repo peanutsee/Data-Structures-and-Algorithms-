@@ -3,7 +3,7 @@ def bubblesort(arr):
     https://www.geeksforgeeks.org/bubble-sort/
 
     Compares adjacent elements.
-    After every successive iteratio, the biggest number gets sorted to the right.
+    After every successive iteration, the biggest number gets sorted to the right.
     :param unsorted_arr: Unsorted array of len(n)
     :return: Sorted array of len(n)
     '''
